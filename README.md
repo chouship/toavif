@@ -4,7 +4,8 @@
 
 ## 截图
 
-<img width="1391" height="1172" alt="d43d56230ba93c40085da1c75a6a77c4" src="https://github.com/user-attachments/assets/d61309e8-661e-404c-843c-d5b742edd146" />
+<img width="1202" height="948" alt="image" src="https://github.com/user-attachments/assets/deb3411a-25b4-4b68-a9e0-28c01dd8629f" />
+
 
 ## 功能特点
 
@@ -16,6 +17,7 @@
 - 📊 **实时进度**: 显示每个文件的转换状态和总体进度
 - 🗑️ **智能清理**: 可选择将原图移至回收站
 - 💾 **配置保存**: 自动保存和加载用户配置
+- 增加**保存原有时间戳**
 
 ## 系统要求
 
@@ -167,3 +169,6 @@ python avif_converter.py
 - GUI界面和拖拽操作
 - 多线程处理
 - GPU/CPU编码支持 
+
+### v1.0.1
+- 支持保存原有时间戳
